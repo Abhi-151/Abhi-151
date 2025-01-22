@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Kumar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Software Development
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence along with Data Science
 - 💞️ I’m looking to collaborate on Projects related to my Domain
 - 📫 How to reach me @Abhi-151
